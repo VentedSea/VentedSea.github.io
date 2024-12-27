@@ -1,4 +1,4 @@
-remote_theme: pages-themes/modernist@v0.2.0
+theme: minima
 
 # Where things are
 source              : .
@@ -31,7 +31,7 @@ unpublished         : false
 
 # Plugins
 whitelist           : []
-plugins             : [jekyll-remote-theme]
+plugins             : []
 
 # Conversion
 markdown            : kramdown
